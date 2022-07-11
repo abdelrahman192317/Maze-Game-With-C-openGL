@@ -1,5 +1,5 @@
 # The Maze Game
-## Project: Game by C++ and OpenGl
+## Project: Game by C++ and OpenGL
 
 ### Install
 
@@ -18,40 +18,40 @@ Template code is provided in the `Maze Game.sln`.
 
 ### How to play
 
-Game provides playing with these kyes
+The game provides playing with these keys
 
-- `W` or `w` moving forward.
-- `S` or `s` moving backward.
-- `A` or `a` moving left.
-- `D` or `d` moving right.
-- `←` moving left with 90'.
-- `→` moving right with 90'.
+- `W` or `w` move forward.
+- `S` or `s` move backward.
+- `A` or `a` move left.
+- `D` or `d` move right.
+- `←` move left with 90'.
+- `→` move right with 90'.
 
 ### Camera View
 
-Game provides move tha camera with these kyes
+The game provides move the camera with these kyes
 
 - `↑` zoom in.
 - `↓` zoom out.
-- `Q` or `q` move up with camera.
-- `E` or `e` move down with camera.
+- `Q` or `q` move up with the camera.
+- `E` or `e` move down with the camera.
 
 ###### this is the start shape before you play
 
-<img src="start.png" width='1000' height='700'>
+<img src="start.png">
 
 ###### you can press enter to start playing
 
-<img src="timer.png" width='1000' height='700'>
+<img src="timer.png">
 
 ###### you can press space to pause and press again to continue
 
-<img src="pause.png" width='1000' height='700'>
+<img src="pause.png">
 
-###### if you crashed that mean game over and you can play again after press enter
+###### if you crashed that means game over and you can play again after pressing enter
 
-<img src="game over.png" width='1000' height='700'>
+<img src="game over.png">
 
-###### there is a flag that is mean you win this round and you can play again after press enter
+###### there is a flag that means you win this round and you can play again after pressing enter
 
-<img src="win.png" width='1000' height='700'>
+<img src="win.png">
