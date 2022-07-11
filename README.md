@@ -48,7 +48,7 @@ The game provides move the camera with these kyes
 
 <img src="pause.png">
 
-###### if you crashed that means game over and you can play again after pressing enter
+###### if time out that means game over and you can play again after pressing enter
 
 <img src="game over.png">
 
